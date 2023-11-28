@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\hwC#arrays\t1\bin\Debug\net8.0\t1.exe
+C:\Users\Igor\Desktop\hwC#arrays\t1\bin\Debug\net8.0\t1.deps.json
+C:\Users\Igor\Desktop\hwC#arrays\t1\bin\Debug\net8.0\t1.runtimeconfig.json
+C:\Users\Igor\Desktop\hwC#arrays\t1\bin\Debug\net8.0\t1.dll
+C:\Users\Igor\Desktop\hwC#arrays\t1\bin\Debug\net8.0\t1.pdb
+C:\Users\Igor\Desktop\hwC#arrays\t1\obj\Debug\net8.0\t1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\hwC#arrays\t1\obj\Debug\net8.0\t1.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\hwC#arrays\t1\obj\Debug\net8.0\t1.AssemblyInfo.cs
+C:\Users\Igor\Desktop\hwC#arrays\t1\obj\Debug\net8.0\t1.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\hwC#arrays\t1\obj\Debug\net8.0\t1.dll
+C:\Users\Igor\Desktop\hwC#arrays\t1\obj\Debug\net8.0\refint\t1.dll
+C:\Users\Igor\Desktop\hwC#arrays\t1\obj\Debug\net8.0\t1.pdb
+C:\Users\Igor\Desktop\hwC#arrays\t1\obj\Debug\net8.0\t1.genruntimeconfig.cache
+C:\Users\Igor\Desktop\hwC#arrays\t1\obj\Debug\net8.0\ref\t1.dll
